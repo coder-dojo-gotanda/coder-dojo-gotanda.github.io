@@ -1,0 +1,2 @@
+(this["webpackJsonpcoder-dojo-gotanda.github.io"]=this["webpackJsonpcoder-dojo-gotanda.github.io"]||[]).push([[0],{4:function(o,e,t){"use strict";t.r(e);var d=t(3),r=t.n(d),c=(t(1),t(0)),n=document.getElementById("root"),a=Object(c.jsxs)("div",{children:[Object(c.jsx)("h1",{children:"CoderDojo Gotanda"}),Object(c.jsx)("p",{children:Object(c.jsx)("a",{href:"https://coderdojo-gotanda.doorkeeper.jp/",children:"JOIN US"})})]});r.a.render(a,n)}},[[4,1,2]]]);
+//# sourceMappingURL=main.6e16caea.chunk.js.map
