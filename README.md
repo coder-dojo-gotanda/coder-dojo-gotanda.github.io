@@ -1,7 +1,7 @@
 # cdg-react
 CoderDojo五反田のReact+Github Pagesの練習用
 
-<https://coder-dojo-gotanda.github.io/cdg-react/>
+<https://coder-dojo-gotanda.github.io/>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

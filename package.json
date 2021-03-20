@@ -1,6 +1,6 @@
 {
-  "name": "cdg-react",
-  "homepage": "https://coder-dojo-gotanda.github.io/cdg-react/",
+  "name": "coder-dojo-gotanda.github.io",
+  "homepage": "https://coder-dojo-gotanda.github.io/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
