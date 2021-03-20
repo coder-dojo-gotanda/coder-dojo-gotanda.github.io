@@ -7,6 +7,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm run deplay`
+
+Github上に `gh-pages` ブランチを作成して、Github Pagesを更新します。
+
 ### `npm start`
 
 Runs the app in the development mode.\
