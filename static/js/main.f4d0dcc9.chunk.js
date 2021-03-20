@@ -1,0 +1,2 @@
+(this["webpackJsonpcoder-dojo-gotanda.github.io"]=this["webpackJsonpcoder-dojo-gotanda.github.io"]||[]).push([[0],{4:function(o,t,e){"use strict";e.r(t);var n=e(3),d=e.n(n),r=(e(0),e(2)),c=document.getElementById("root"),a=function(o){return Object(r.jsx)("h1",{children:"CoderDojo Gotanda"})};d.a.render(Object(r.jsx)(a,{}),c)}},[[4,1,2]]]);
+//# sourceMappingURL=main.f4d0dcc9.chunk.js.map
