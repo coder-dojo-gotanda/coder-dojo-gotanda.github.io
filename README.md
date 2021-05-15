@@ -1,13 +1,13 @@
-# cdg-react
+# CoderDojo五反田のWebsite
 CoderDojo五反田のReact+Github Pagesの練習用
 
 <https://coder-dojo-gotanda.github.io/>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## コマンド集
 
-In the project directory, you can run:
+開発に参加するときに使うコマンドです。
 
 ### `npm run deploy`
 
@@ -15,8 +15,8 @@ Github上に `gh-pages` ブランチを作成して、Github Pagesを更新し�
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+開発モードでウェブサイトを起動します.\
+Open <http://localhost:3000> to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
